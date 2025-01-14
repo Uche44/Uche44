@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uche44
 - 👀 I’m interested in frontend web development with tools like HTML, CSS, tailwindcss, javascript, react and other technologies.
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on real-world projects
 - 📫 Contact me via whatsapp on +2349136601904
 - 😄 Pronouns: she/her
