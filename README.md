@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @Uche44
-- 👀 I’m interested in frontend web development with tools like HTML, CSS, tailwindcss, javascript, react and other technologies.
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on real-world projects
-- 📫 Contact me via whatsapp on +2349136601904
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love drawing and food...
+# Hi there 👋, I'm Uche!
 
-<!---
-Uche44/Uche44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Frontend Developer | ✍️ Web3 Content Writer | 🌍 Community Builder  
+
+- 🔭 I’m currently working on **Fullstack projects**
+- 🌱 Learning **Django & web3 integration**
+- 👯 Open to collaborate on **frontend + Web3 projects**
+- ⚡ Fun fact: I love blending tech and storytelling!
+
+---
+
+### 🚀 Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
+
+---
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uche44&show_icons=true&theme=radical)
+
+---
+
+### ✨ Fun
+> "Code + Creativity = Impact"
