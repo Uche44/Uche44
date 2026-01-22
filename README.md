@@ -3,8 +3,8 @@
 💻 Frontend Developer | ✍️ Web3 Content Writer | 🌍 Community Builder  
 
 - 🔭 I’m currently working on **Fullstack projects**
-- 🌱 Learning **Django & web3 integration**
-- 👯 Open to collaborate on **frontend + Web3 projects**
+- 🌱 **Python** specialist with interest in **web3**
+- 👯 Open to collaborate on **fullstack + Web3 projects**
 - ⚡ Fun fact: I love blending tech and storytelling!
 
 ---
