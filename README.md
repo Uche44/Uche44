@@ -1,10 +1,10 @@
-# Hi there 👋, I'm Uche!
+# Hi there 👋, I'm Perpetual!
 
-💻 Frontend Developer | ✍️ Web3 Content Writer | 🌍 Community Builder  
+💻 Frontend Developer | ✍️ Technical Writer | 🌍 Open Source Contributor
 
 - 🔭 I’m currently working on **Fullstack projects**
 - 🌱 **Python** specialist with interest in **web3**
-- 👯 Open to collaborate on **fullstack + Web3 projects**
+- 👯 Open to collaborate on **fullstack + Web3 projects** + **open source projects**
 - ⚡ Fun fact: I love blending tech and storytelling!
 
 ---
