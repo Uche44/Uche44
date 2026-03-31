@@ -17,6 +17,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=fff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000)
+![Python](https://img.shields.io/badge/-Python-FFCA28?logo=python&logoColor=000)
+![Fastapi](https://img.shields.io/badge/-Fastapi-FFCA28?logo=fastapi&logoColor=000)
+![Django](https://img.shields.io/badge/-Django-FFCA28?logo=django&logoColor=000)
 
 
 ---
